@@ -1,18 +1,30 @@
-# Code & Café 🏡  
-☕💻 *Programar pode ser mais leve com uma boa companhia.*  
-Criado em abril de 2025, o **Code & Café** é um espaço acolhedor feito sob medida pra quem está começando na jornada do código!
+# ☕ Code & Café 🏡  
+*Programar pode ser mais leve com uma boa companhia.*
 
-Aqui você encontra:  
-🔥 Comunidade ativa  
-🧱 Apoio para cada passo  
-💎 Dicas e recursos valiosos  
-✨ Desafios para praticar o que aprendeu  
-🕹️ Espaço para jogos e descompressão  
+Desde **abril de 2025**, o **Code & Café** é um espaço acolhedor feito sob medida pra quem está começando na jornada do código!
 
-**🚀 Concluiu um desafio? Nossa equipe de moderadores vai te dar feedback ao vivo. É um compromisso!**  
-Nada de ficar no escuro — você terá orientação clara pra evoluir de verdade.
+---
 
-Entre, puxe uma cadeira e escolha seu caminho:  
-👩‍💻 Front-End  👨‍💻 Back-End  💡 Iniciantes
+### O que você encontra aqui:
+- 🔥 **Comunidade ativa** pronta pra trocar ideias
+- 🧱 **Apoio passo a passo** nos seus estudos
+- 💎 **Recursos valiosos** pra acelerar sua aprendizagem
+- ✨ **Desafios práticos** com temas variados
+- 🕹️ **Espaço para descompressão** e socialização
 
-📌 **Junte-se a nós no Discord:** [discord.gg/ctPvpVNuAs](https://discord.gg/ctPvpVNuAs)
+---
+
+### 🚀 Feedback garantido:
+**Concluiu um desafio?**  
+**Nossa equipe de moderadores vai te dar *feedback ao vivo*. É um compromisso.**  
+Nada de ficar no escuro — aqui você aprende com retorno real.
+
+---
+
+### 🧭 Escolha seu caminho:
+👩‍💻 **Front-End**  👨‍💻 **Back-End**  💡 **Iniciantes**
+
+---
+
+📌 **Entre agora no nosso servidor e comece a trocar ideia com outros devs como você:**  
+👋 [discord.gg/ctPvpVNuAs](https://discord.gg/ctPvpVNuAs)
