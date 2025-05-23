@@ -1,4 +1,4 @@
-# ☕ Code & Café 🏡  
+# ☕💻 Code & Café
 *Programar pode ser mais leve com uma boa companhia.*
 
 Desde **abril de 2025**, o **Code & Café** é um espaço acolhedor feito sob medida pra quem está começando na jornada do código!
