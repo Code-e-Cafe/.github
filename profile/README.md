@@ -27,4 +27,4 @@ Nada de ficar no escuro — aqui você aprende com retorno real.
 ---
 
 📌 **Entre agora no nosso servidor e comece a trocar ideia com outros devs como você:**  
-👋 [Nosso DISCORD](https://discord.gg/AWa8VPZj8S)
+👋 [https://discord.gg/AWa8VPZj8S](https://discord.gg/AWa8VPZj8S)
